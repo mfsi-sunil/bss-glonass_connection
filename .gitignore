@@ -1,0 +1,14 @@
+JavaCfxClientDemo/.classpath
+JavaCfxClientDemo/.project
+JavaCfxClientDemo/.settings/org.eclipse.jdt.core.prefs
+JavaCfxClientDemo/bin/SmartFoxClient$1.class
+JavaCfxClientDemo/bin/SmartFoxClient$2.class
+JavaCfxClientDemo/bin/SmartFoxClient$3.class
+JavaCfxClientDemo/bin/SmartFoxClient.class
+JavaCfxClientDemo/lib/SFS2X_API_Java.jar
+JavaCfxClientDemo/lib/commons-lang-2.4.jar
+JavaCfxClientDemo/lib/jdom.jar
+JavaCfxClientDemo/lib/netty-3.2.2.Final.jar
+JavaCfxClientDemo/lib/sfs2x-client-core.jar
+JavaCfxClientDemo/lib/slf4j-api-1.6.1.jar
+JavaCfxClientDemo/lib/slf4j-simple-1.6.1.jar
