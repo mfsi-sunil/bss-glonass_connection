@@ -30,7 +30,8 @@ public class SmartFoxClient
 				// TODO Auto-generated method stub
 				Map param=evnt.getArguments();
 				Iterator keys=param.keySet().iterator();
-				
+				System.out.println("Many sysout Statements");
+				System.out.println("Many sysout Statemnets");
 				while(keys.hasNext())
 				{
 					//String key=(String) param.get(keys.next()+"");
