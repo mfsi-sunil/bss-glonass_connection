@@ -12,3 +12,4 @@ JavaCfxClientDemo/lib/netty-3.2.2.Final.jar
 JavaCfxClientDemo/lib/sfs2x-client-core.jar
 JavaCfxClientDemo/lib/slf4j-api-1.6.1.jar
 JavaCfxClientDemo/lib/slf4j-simple-1.6.1.jar
+JavaCfxClientDemo/.gitignore
