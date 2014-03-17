@@ -25,4 +25,10 @@ public class UserRequestHandler {
 		System.out.println("making the things happen properly");
 	}
 	
+	public void conflictResolution()
+	{
+		System.out.println("need a peaceful life not this bad one......please god save me");
+	}
+	
+	
 }
