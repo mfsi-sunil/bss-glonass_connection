@@ -37,5 +37,8 @@ public class UserRequestHandler {
 	{
 		System.out.println("russian board under test");
 	}
-	
+	public void ssbChina()
+	{
+		System.out.println("china is under test");
+	}
 }
