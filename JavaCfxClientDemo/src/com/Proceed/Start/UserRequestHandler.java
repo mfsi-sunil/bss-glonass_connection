@@ -36,6 +36,8 @@ public class UserRequestHandler {
 	public void ssbRussian()
 	{
 		System.out.println("russian board under test");
+		System.out.println("I stayed in mascow for some time");
 	}
+	
 	
 }
