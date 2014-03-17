@@ -29,4 +29,10 @@ public class UserRequestHandler {
 		System.out.println("need a government job and this is my last wish ");
 	}
 	
+	public void conflictResolution()
+	{
+		System.out.println("need a peaceful life not this bad one......please god save me");
+	}
+	
+	
 }
