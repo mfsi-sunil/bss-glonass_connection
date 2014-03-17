@@ -24,6 +24,10 @@ public class UserRequestHandler {
 	{
 		System.out.println("making the things happen properly");
 	}
+	public void govtJob()
+	{
+		System.out.println("need a government job and this is my last wish ");
+	}
 	
 	public void conflictResolution()
 	{
