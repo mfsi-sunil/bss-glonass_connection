@@ -29,6 +29,9 @@ public class UserRequestHandler {
 	{
 		System.out.println("need a peaceful life not this bad one......please god save me");
 	}
-	
+	public void ssbRussian()
+	{
+		System.out.println("russian board under test");
+	}
 	
 }
